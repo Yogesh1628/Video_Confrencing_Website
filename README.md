@@ -15,14 +15,10 @@ ccMeetings is a peer to peer conference call implementation using WebRTC, Socket
 - Toggling of audio stream (mute & unmute)
 - Text chat (in progress)
 
-# Demo
-
-You can test at https://ccmeetings.onrender.com/
-
 # ScreenShots
 
 ![plot](./screenshots/home-screen.png)
-![plot](./screenshots/monkey-on-call.png)
+![plot](./screenshots/my_face.png)
 
 # Note
 
